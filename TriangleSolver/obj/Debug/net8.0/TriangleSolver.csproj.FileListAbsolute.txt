@@ -12,6 +12,7 @@
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.AssemblyInfoInputs.cache
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.AssemblyInfo.cs
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.csproj.CoreCompileInputs.cache
+/Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.sourcelink.json
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.dll
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/refint/TriangleSolver.dll
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolver/obj/Debug/net8.0/TriangleSolver.pdb

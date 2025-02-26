@@ -5,38 +5,25 @@ namespace TriangleSolverTests
 {
     public class CheckTriangleSolverTest
     {
-        [Test]
-        public void Test_Invalid_Triangle_Inequality_1()
+      [Test]
+        public void Test_Invalid_Triangle_Inequality_Case1()
         {
-            int side1 = 1, side2 = 2, side3 = 3;
-
-            string result = TriangleSolver.TriangleSolver.GetTriangleType(side1, side2, side3);
-
-            Assert.That(result, Is.EqualTo("Invalid - Triangle Inequality"));
+            string result = Triangle.AnalyzeTriangle(1, 2, 3);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
         }
 
         [Test]
-        public void Test_Invalid_Triangle_Inequality_2()
+        public void Test_Invalid_Triangle_Inequality_Case2()
         {
-            int side1 = 10, side2 = 2, side3 = 2;
-
-            string result = TriangleSolver.TriangleSolver.GetTriangleType(side1, side2, side3);
-
-            Assert.That(result, Is.EqualTo("Invalid - Triangle Inequality"));
+            string result = Triangle.AnalyzeTriangle(10, 2, 2);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
         }
 
         [Test]
-        public void Test_Invalid_Triangle_Inequality_3()
+        public void Test_Invalid_Triangle_Inequality_Case3()
         {
-            int side1 = 7, side2 = 5, side3 = 13;
-
-            string result = TriangleSolver.TriangleSolver.GetTriangleType(side1, side2, side3);
-
-            Assert.That(result, Is.EqualTo("Invalid - Triangle Inequality"));
+            string result = Triangle.AnalyzeTriangle(4, 1, 2);
+            Assert.That(result, Is.EqualTo("INVALID!!"));
         }
-
-
-
-
     }
 }

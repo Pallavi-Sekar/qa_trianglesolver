@@ -157,3 +157,4 @@
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.pdb
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.genruntimeconfig.cache
 /Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/ref/TriangleSolverTest.dll
+/Users/pallavi/Downloads/Assignment #2 attached files Feb 25, 2025 444 PM/TriangleSolver/TriangleSolverTest/obj/Debug/net8.0/TriangleSolverTest.sourcelink.json
